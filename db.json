@@ -1,0 +1,7 @@
+{
+  "dists": [
+    { "id": "x", "value": "Post 1" },
+    { "id": "y", "value": "Post 2" },
+    { "id": "z", "value": "Post 3" }
+  ]
+}
